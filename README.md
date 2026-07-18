@@ -16,4 +16,4 @@ Senior Data Engineer with 11+ years building large-scale data platforms, current
 
 ---
 
-📫 Reach me on [LinkedIn](#) · Based in Delhi NCR, India
+📫 Reach me on [[LinkedIn](https://www.linkedin.com/in/mridul15/)](#) · Based in Delhi NCR, India
