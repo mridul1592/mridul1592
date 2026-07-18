@@ -6,7 +6,7 @@ Senior Data Engineer with 11+ years building large-scale data platforms, current
 - 🏗️ **What I do:** Data Lakehouse architecture, ADF-based batch pipeline design, metadata-driven ETL/ELT, delta migrations at scale
 - 🎓 **Credentials:** AI & Data Science ePG Diploma (IIT Bombay) · Microsoft Fabric Certified · Databricks Certified
 - 🌱 **Currently exploring:** RAG pipelines, LLMOps, and feature stores — the intersection of data engineering and AI infrastructure
-- 💼 **Background:** Publicis Sapient → Accenture → Infosys
+- 💼 **Background:** Publicis Sapient → Infosys → Accenture
 
 ---
 
