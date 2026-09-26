@@ -10,10 +10,4 @@ Senior Data Engineer with 11+ years building large-scale data platforms, current
 
 ---
 
-**Featured project**
-
-🌾 [`ai-krishi-mitra`](https://github.com/mridul1592/ai-krishi-mitra) — A RAG-based farmer advisory system exploring semantic search for agricultural Q&A. Built to understand retrieval pipelines and LLM-grounded search from the ground up.
-
----
-
 📫 Reach me on [[LinkedIn](https://www.linkedin.com/in/mridul15/)](#) · Based in Delhi NCR, India
