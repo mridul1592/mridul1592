@@ -1,6 +1,6 @@
 ### Hi, I'm Mridul 👋
 
-Senior Data Engineer with 11+ years building large-scale data platforms, currently at **Publicis Sapient**. I specialize in Azure-based Lakehouse modernization — designing and stabilizing batch pipelines that move and transform data reliably at enterprise scale.
+Senior Data Engineer with 11+ years building large-scale data platforms. I specialize in Azure-based Lakehouse modernization — designing and stabilizing batch pipelines that move and transform data reliably at enterprise scale.
 
 - 🔧 **Core stack:** Azure Data Factory · Databricks · PySpark · SQL · Azure Cosmos DB
 - 🏗️ **What I do:** Data Lakehouse architecture, ADF-based batch pipeline design, metadata-driven ETL/ELT, delta migrations at scale
